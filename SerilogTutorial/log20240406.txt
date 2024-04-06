@@ -1,0 +1,2 @@
+2024-04-06 13:47:23.768 +01:00 [INF] Starting up application
+2024-04-06 13:47:34.840 +01:00 [INF] This log is from the global Log class
